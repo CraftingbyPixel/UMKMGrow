@@ -34,7 +34,7 @@ Designing a user interface that:
 
 ## 🎨 Figma Prototype
 
-> 🔗 **Figma Link**: [click here](https://www.figma.com/design/evgXXokS9d3sjqFEAIxQcb/UMKMGrow?node-id=20-10794&t=S6OYDgGi5cWCcFH8-0)
+> 🔗 **Figma Link**: [click here](https://www.figma.com/design/evgXXokS9d3sjqFEAIxQcb/UMKMGrow?node-id=22-1892)
 
 Click the link above to view the interactive prototype of UMKMGrow.
 
