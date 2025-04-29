@@ -64,4 +64,4 @@ This design is released under the [Creative Commons Attribution 4.0 Internationa
 ## 📬 Contact
 
 For collaboration or inquiries:
-- ✉️ Email: your@email.com
+- ✉️ Email: craftingbypixel@email.com
